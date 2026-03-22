@@ -2,7 +2,7 @@
 
 Researcher at Case Western Reserve University. I like building models from scratch to understand how they actually work.
 
-Currently working on computer vision, NLP, and generative AI.
+Currently learning how to write CUDA code.
 
 ---
 

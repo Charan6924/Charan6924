@@ -2,7 +2,7 @@
 
 Researcher at Case Western Reserve University. I like building models from scratch to understand how they actually work.
 
-Currently learning how to write CUDA code.
+Currently learning C++ and CUDA
 
 ---
 

@@ -19,4 +19,4 @@ Currently learning how to write CUDA code.
 
 **Stack:** Python, PyTorch, HuggingFace, CUDA
 
-**Contact:** cxv166@case.edu
+**Contact:** charanvardham@gmail.com

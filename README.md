@@ -11,5 +11,7 @@ Currently learning C++ and CUDA
 - [PersonalPortfolio](https://github.com/Charan6924/PersonalPortfolio) — responsive portfolio website with modern design and interactive features
 ---
 **Stack:** Python, PyTorch, HuggingFace, CUDA
+
 **Contact:** charanvardham@gmail.com
+
 **[Resume](https://github.com/Charan6924/Resume/blob/main/Charan_Vardham_2028.pdf)**

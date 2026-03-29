@@ -1,8 +1,5 @@
 # Charan Vardham
 Researcher at Case Western Reserve University. I like building models from scratch to understand how they actually work.
-
-
-Currently learning C++ and CUDA
 ---
 **Projects**
 - [GPT2](https://github.com/Charan6924/GPT2) — from-scratch GPT-2 (124M params) trained on 10B tokens
@@ -12,6 +9,8 @@ Currently learning C++ and CUDA
 - [KernelConversionResearch](https://github.com/Charan6924/KernelConversionResearch) — deep learning for CT reconstruction kernel conversion
 - [PersonalPortfolio](https://github.com/Charan6924/PersonalPortfolio) — responsive portfolio website with modern design and interactive features
 ---
+Currently learning C++ and CUDA
+
 **Stack:** Python, PyTorch, HuggingFace, CUDA
 
 **Contact:** charanvardham@gmail.com

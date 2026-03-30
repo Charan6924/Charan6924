@@ -1,5 +1,7 @@
 # Charan Vardham
-Researcher at Case Western Reserve University. I like building models from scratch to understand how they actually work.
+Researcher at Case Western Reserve University. 
+
+I like building models from scratch to understand how they actually work.
 ---
 **Projects**
 - [GPT2](https://github.com/Charan6924/GPT2) — from-scratch GPT-2 (124M params) trained on 10B tokens

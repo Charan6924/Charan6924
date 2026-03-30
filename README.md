@@ -1,7 +1,7 @@
 # Charan Vardham
 **Researcher at Case Western Reserve University**
 
-> **I like building models from scratch to understand how they actually work.**
+**I like building models from scratch to understand how they actually work.**
 
 ---
 

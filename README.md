@@ -27,4 +27,4 @@
 - **GitHub:** [@Charan6924](https://github.com/Charan6924)
 
 ---
-![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charan6924&show_icons=true&theme=transparent)
+

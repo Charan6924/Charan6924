@@ -18,7 +18,7 @@
 
 ### Tech Stack
 - **ML/Systems:** Python, PyTorch, HuggingFace, CUDA (currently learning), C++
-- **Web:** React, Next.js, Tailwind CSS, TypeScript
+- **Web:** React, Next.js, Tailwind CSS, TypeScript, Supabase, Firebase, Vercel
 
 ---
 

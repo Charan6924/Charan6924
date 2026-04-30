@@ -8,11 +8,12 @@
 ### Repositories
 - **[GPT2](https://github.com/Charan6924/GPT2)** — from-scratch GPT-2 (124M params) trained on 10B tokens
 - **[VisionTransformer](https://github.com/Charan6924/VisionTransformer)** — SigLIP ViT with sigmoid contrastive loss and BERT text encoder
+- **[SuperResolution](https://github.com/Charan6924/SuperResolution)** — SRGAN: 64×64 → 125×125 with perceptual loss
 - **[RAG](https://github.com/Charan6924/RAG)** — retrieval-augmented generation chatbot
 - **[ArtGan](https://github.com/Charan6924/ArtGan)** — CNN-RNN that classifies paintings by style and artist
 - **[CUDA](https://github.com/Charan6924/CUDA)** — CUDA kernels
 - **[KernelConversionResearch](https://github.com/Charan6924/KernelConversionResearch)** — deep learning for CT reconstruction kernel conversion
-- **[Sift](https://github.com/Charan6924/resumeFrontend)** (https://github.com/Charan6924/ResumeScanner) — AI resume screening ([link](https://resume-frontend-lake-kappa.vercel.app/))
+- **[Sift](https://github.com/Charan6924/resumeFrontend)** ([backend](https://github.com/Charan6924/ResumeScanner)) — AI resume screening ([live](https://resume-frontend-lake-kappa.vercel.app/))
 - **[PersonalPortfolio](https://github.com/Charan6924/PersonalPortfolio)** — responsive portfolio website with modern design and interactive features
 
 ---

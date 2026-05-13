@@ -14,6 +14,8 @@
 - **[CUDA](https://github.com/Charan6924/CUDA)** — CUDA kernels
 - **[KernelConversionResearch](https://github.com/Charan6924/KernelConversionResearch)** — deep learning for CT reconstruction kernel conversion
 - **[Sift](https://github.com/Charan6924/ResumeScanner)** — AI resume screening ([link](https://resume-frontend-lake-kappa.vercel.app/))
+- **[ducky](https://github.com/Charan6924/ducky)** — CLI tool that passively tracks AI coding assistant usage during development sessions
+
 - **[PersonalPortfolio](https://github.com/Charan6924/PersonalPortfolio)** — responsive portfolio website with modern design and interactive features
 
 ---

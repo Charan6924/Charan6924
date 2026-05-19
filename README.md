@@ -1,5 +1,5 @@
 # Charan Vardham
-**Researcher at Case Western Reserve University**
+**Researcher at UW-Madison**
 
 **I like building models from scratch to understand how they actually work.**
 

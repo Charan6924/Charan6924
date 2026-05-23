@@ -12,7 +12,7 @@
 - **[ducky](https://github.com/Charan6924/ducky)** — CLI tool that passively tracks AI coding assistant usage during development sessions
 - **[SuperResolution](https://github.com/Charan6924/SuperResolution)** — SRGAN: 64×64 → 125×125 with perceptual loss
 - **[ArtGan](https://github.com/Charan6924/ArtGan)** — CNN-RNN that classifies paintings by style and artist
-- **[CUDA](https://github.com/Charan6924/CUDA)** — CUDA kernels
+- **[CUDA](https://github.com/Charan6924/CUDA)** — CUDA kernel
 - **[KernelConversionResearch](https://github.com/Charan6924/KernelConversionResearch)** — deep learning for CT reconstruction kernel conversion
 - **[PersonalPortfolio](https://github.com/Charan6924/PersonalPortfolio)** — responsive portfolio website with modern design and interactive features
 

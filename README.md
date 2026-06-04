@@ -22,6 +22,7 @@
 ### Tech Stack
 - **ML/Systems:** Python, PyTorch, HuggingFace, CUDA, C++, Sklearn
 - **Web:** React, Next.js, Tailwind CSS, TypeScript, Supabase, Firebase, Vercel
+- **LLMs/Agents:** LangGraph.js, DeepSeek API, Vercel AI SDK, Qdrant, Upstash Kafka
 
 ---
 

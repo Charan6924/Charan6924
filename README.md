@@ -6,7 +6,7 @@
 ---
 
 ### Repositories
-- **[incident-agent](https://github.com/Charan6924/incident-agent)** — Multi-agent AI incident response platform: autonomous detection, triage, investigation, remediation, and post mortem generation for production systems (in progress)
+- **[incident-agent](https://github.com/Charan6924/incident-agent)** — Multi-agent AI incident response platform: autonomous detection, triage, investigation, remediation, and post mortem generation for production grade systems (in progress)
 - **[GPT2](https://github.com/Charan6924/GPT2)** — from-scratch GPT-2 (124M params) trained on 10B tokens
 - **[VisionTransformer](https://github.com/Charan6924/VisionTransformer)** — SigLIP ViT with sigmoid contrastive loss and BERT text encoder
 - **[Sift](https://github.com/Charan6924/ResumeScanner)** — AI resume screening ([link](https://resume-frontend-lake-kappa.vercel.app/))

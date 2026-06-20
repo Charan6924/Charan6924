@@ -6,7 +6,7 @@
 ---
 
 ### Repositories
-- **[fraud-detection](https://github.com/Charan6924/fraud-detection)** — Real-time credit card fraud detection: XGBoost, serverless TypeScript inference, custom Docker container on Lambda, and canary CI/CD deployment (in progress)
+- **[fraud-detection](https://github.com/Charan6924/fraud-detection)** — Real-time credit card fraud detection: XGBoost, serverless TypeScript inference, drift detection, custom Docker container on Lambda, and canary CI/CD deployment (in progress)
 - **[GPT2](https://github.com/Charan6924/GPT2)** — from-scratch GPT-2 (124M params) trained on 10B tokens
 - **[incident-agent](https://github.com/Charan6924/incident-agent)** — Multi-agent AI incident response platform: autonomous detection, triage, investigation, remediation, and post mortem generation for production grade systems (in progress)
 - **[VisionTransformer](https://github.com/Charan6924/VisionTransformer)** — SigLIP ViT with sigmoid contrastive loss and BERT text encoder

@@ -1,7 +1,7 @@
 # Charan Vardham
 **Researcher at UW-Madison**
 
-**I like building models from scratch to understand how they actually work.**
+**I like building models from scratch to understand how they actually work. Currently learning how to write Triton kernels and FSDP**
 
 ---
 

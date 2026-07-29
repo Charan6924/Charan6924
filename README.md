@@ -33,5 +33,3 @@
 - **GitHub:** [@Charan6924](https://github.com/Charan6924)
 
 ---
-![scaling-laws](first.png)
-*Chinchilla scaling laws: optimal model size for compute budgets of 1e23 and 1e24 FLOPs — the region where you get the most bang for your flop*

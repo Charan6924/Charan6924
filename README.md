@@ -9,6 +9,7 @@
 - **[fraud-detection](https://github.com/Charan6924/fraud-detection)** — Real-time credit card fraud detection: XGBoost Ensemble, serverless TypeScript inference, drift detection, custom Docker container on Lambda, and canary CI/CD deployment (in progress)
 - **[GPT2](https://github.com/Charan6924/GPT2)** — from-scratch GPT-2 (124M params) trained on 10B tokens
 - **[incident-agent](https://github.com/Charan6924/incident-agent)** — Multi-agent AI incident response platform: autonomous detection, triage, investigation, remediation, and post mortem generation for production grade systems (in progress)
+- **[needle](https://github.com/Charan6924/hw1)** — Autograd framework with reverse-mode AD built from scratch in NumPy
 - **[VisionTransformer](https://github.com/Charan6924/VisionTransformer)** — SigLIP ViT with sigmoid contrastive loss and BERT text encoder
 - **[Sift](https://github.com/Charan6924/ResumeScanner)** — AI resume screening ([link](https://resume-frontend-lake-kappa.vercel.app/))
 - **[ducky](https://github.com/Charan6924/ducky)** — CLI tool that passively tracks AI coding assistant usage during development sessions

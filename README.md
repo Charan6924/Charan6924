@@ -3,6 +3,8 @@
 
 **Currently learning how to write Triton kernels and FSDP**
 
+**Papers I've read: [papers-read](https://github.com/Charan6924/papers-read)**
+
 ---
 
 ### Repositories

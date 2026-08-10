@@ -1,5 +1,5 @@
 # Charan Vardham
-**Researcher at UW-Madison**
+**CS and Math Undergraduate at UW-Madison**
 
 **Currently learning how to write Triton kernels and FSDP**
 

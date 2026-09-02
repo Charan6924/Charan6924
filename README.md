@@ -1,7 +1,7 @@
 # Charan Vardham
 **CS and Math Undergraduate at UW-Madison**
 
-**Currently learning how Rust works
+**Currently learning how Rust works**
 
 **[Papers I've Read](https://github.com/Charan6924/papers-read)**
 

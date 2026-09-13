@@ -1,7 +1,7 @@
 # Charan Vardham
 **CS and Math Undergraduate at UW-Madison**
 
-**Currently learning how hardware acceleration works**
+**Working on accelerating differential SSTA engines on GPUs**
 
 **[Papers I've Read](https://github.com/Charan6924/papers-read)**
 

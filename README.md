@@ -1,7 +1,7 @@
 # Charan Vardham
 **CS and Math Undergraduate at UW-Madison**
 
-**Working on accelerating differential SSTA engines on GPUs**
+**Currently working on accelerating timing gradient computations in SSTA**
 
 **[Papers I've Read](https://github.com/Charan6924/papers-read)**
 

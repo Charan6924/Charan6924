@@ -32,7 +32,7 @@
 
 ### Contact & Links
 - **Email:** [charanvardham@gmail.com](mailto:charanvardham@gmail.com)
-- **Resume:** [View PDF](https://github.com/Charan6924/Resume/blob/main/Charan_Vardham.pdf)
+- **Resume:** [View PDF](https://github.com/Charan6924/Resume/blob/main/Charan_Vardham_resume.pdf)
 - **GitHub:** [@Charan6924](https://github.com/Charan6924)
 
 ---

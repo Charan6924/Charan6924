@@ -1,8 +1,6 @@
 # Charan Vardham
 **CS and Math Undergraduate at UW-Madison**
 
-**Currently working on accelerating timing gradient computations in [SSTA](https://tsung-wei-huang.github.io/research/#theme-1-heterogeneous-programming-environments)**
-
 **[Papers I've Read](https://github.com/Charan6924/papers-read)**
 
 ---

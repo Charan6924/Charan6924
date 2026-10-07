@@ -1,6 +1,8 @@
 # Charan Vardham
 **CS and Math Undergraduate at UW-Madison**
 
+Currently working on accelerating STA
+
 **[Papers I've Read](https://github.com/Charan6924/papers-read)**
 
 ---

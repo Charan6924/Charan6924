@@ -1,7 +1,7 @@
 # Charan Vardham
 **CS and Math Undergraduate at UW-Madison**
 
-LLM Reliability and Parallel Computing
+LLM Reliability, Reinforcement Learning and Parallel Computing
 
 **[Papers I've Read](https://github.com/Charan6924/papers-read)**
 
